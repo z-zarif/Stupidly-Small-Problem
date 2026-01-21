@@ -1,2 +1,2 @@
 # Stupidly-Small-Problem
-This are very stupidly small problem, solved to strengthen my logic building. 
+These are very stupidly small problems, solved to strengthen my logic building. 
